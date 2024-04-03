@@ -1,6 +1,6 @@
 # Todo List Website
 
-This is a simple Todo List that allows users to add and delete tasks from their todo list. Your todo list will persist even after refreshing the page or closing the browser. The website is responsive, making it usable on various devices. <a href="https://himanshi-todolist.netlify.app/"> Click to Visit website </a>
+This is a simple Todo List that allows users to add and delete tasks from their todo list. Your todo list will persist even after refreshing the page or closing the browser. The website is responsive, making it usable on various devices. <a href="https://himanshi-todolist.netlify.app/"> View website </a>
 
 ## Features
 
