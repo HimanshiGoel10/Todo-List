@@ -14,6 +14,7 @@ This is a simple Todo List that allows users to add and delete tasks from their 
 - HTML
 - CSS
 - JavaScript
+- JSON
 
 ## Local Storage
 The website uses local storage to store todo items. This means your todo list will persist even after refreshing the page or closing the browser.
